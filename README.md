@@ -2,7 +2,7 @@
 
 # 🔐 HASNAT ALI AWAN
 
-### Computer Science Student | Cybersecurity Enthusiast | Full-Stack Developer
+### Computer Science Student | Cybersecurity Enthusiast | Mobile Developer
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hasnataliawan088@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/923171542350)
@@ -27,12 +27,13 @@ To become a **cybersecurity professional** who develops secure, scalable, and el
 ```
 Languages          ▌▌▌▌▌ C++, C#
 OOP & DSA          ▌▌▌▌▌ Advanced Concepts & Algorithms
+Mobile Dev         ▌▌▌▌░ Flutter, Android Studio
 Databases          ▌▌▌▌░ SQL, MySQL
-Web Technologies   ▌▌▌░░ .NET Framework, Windows Forms
-Tools & DevOps     ▌▌▌▌░ Git, Visual Studio, MS SQL Server
+Desktop Dev        ▌▌▌▌░ Windows Forms, .NET Framework
+Tools & DevOps     ▌▌▌▌░ Git, Visual Studio, Android Studio
 ```
 
-**Core Competencies:** Object-Oriented Programming • Data Structures & Algorithms • Database Design • System Architecture
+**Core Competencies:** Object-Oriented Programming • Data Structures & Algorithms • Mobile Application Development • Cybersecurity Fundamentals • System Architecture
 
 **Soft Skills:** Leadership • Problem-Solving • Team Collaboration • Technical Communication
 
