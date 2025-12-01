@@ -72,16 +72,7 @@ Proven track record of **leading academic project teams** with expertise in:
 
 ---
 
-## 📬 Connect With Me
 
-| Platform | Link |
-|----------|------|
-| **Email** | [hasnataliawan088@gmail.com](mailto:hasnataliawan088@gmail.com) |
-| **WhatsApp** | [+92 317 1542350](https://wa.me/923171542350) |
-| **GitHub** | [@Hasnat-Ali-Awan](https://github.com/Hasnat-Ali-Awan) |
-| **LinkedIn** | [/Hasnat-Ali-Awan](https://linkedin.com/in/Hasnat-Ali-Awan) |
-
----
 
 <div align="center">
 
