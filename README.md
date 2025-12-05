@@ -77,10 +77,12 @@ Proven track record of **leading academic project teams** with expertise in:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hasnat-Ali-Awan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnat-Ali-Awan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+[![GitHub Contribution Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnat-Ali-Awan&theme=radical)](https://github.com/Hasnat-Ali-Awan)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnat-Ali-Awan&theme=radical&hide_border=true" alt="GitHub Streak" width="500"/>
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hasnat-Ali-Awan&theme=radical)](https://github.com/Hasnat-Ali-Awan)
+[![Most Committed Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hasnat-Ali-Awan&theme=radical)](https://github.com/Hasnat-Ali-Awan)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hasnat-Ali-Awan&theme=radical&hide_border=true)](https://github.com/Hasnat-Ali-Awan)
 
 </div>
 
