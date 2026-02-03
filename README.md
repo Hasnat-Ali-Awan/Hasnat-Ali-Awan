@@ -13,12 +13,20 @@
 
 ---
 
-## 👋 Hey There!
+## 👋 About Me
 
-I'm a **motivated Computer Science student** at Doctor AQ Khan Institute of Computer Science and Information Technology (KICSIT), driven by a passion for **cybersecurity** and cutting-edge software development. Currently pursuing my BS in Computer Science (2023-2027), I'm building expertise in secure coding, system architecture, and real-world problem-solving.
+I'm a **Computer Science student** at Doctor AQ Khan Institute of Computer Science and Information Technology (KICSIT), focused on **cybersecurity**, secure software design, and mobile development. I'm currently pursuing my BS in Computer Science (2023–2027) and sharpening my skills in secure coding, system architecture, and building real-world applications.
 
-### Mission
-To become a **cybersecurity professional** who develops secure, scalable, and elegant solutions that protect users and systems in an increasingly connected world.
+**Mission:** Become a cybersecurity professional who delivers **secure, scalable, and user-friendly solutions** that protect people and systems.
+
+---
+
+## 🔎 What I'm Focusing On
+
+- Strengthening **secure coding** practices and defensive programming
+- Building **mobile apps** with clean architecture and intuitive UX
+- Deepening knowledge in **DSA** and software engineering fundamentals
+- Exploring **threat modeling** and security-first system design
 
 ---
 
@@ -44,7 +52,7 @@ Tools & DevOps     ▌▌▌▌░ Git, Visual Studio, Android Studio
 ### 🏥 Clinic Management System
 **Tech Stack:** C# | MySQL | Windows Forms
 
-A comprehensive healthcare management application with full CRUD operations for managing patients, doctors, and appointments. Built with clean architecture principles and user-focused design.
+A healthcare management application with full CRUD operations for patients, doctors, and appointments. Built with clean architecture principles and a user-focused design.
 
 - Patient & doctor profile management
 - Appointment scheduling system
@@ -54,7 +62,7 @@ A comprehensive healthcare management application with full CRUD operations for 
 ### 📚 Student Grading System
 **Tech Stack:** C++ | OOP | Data Structures & Algorithms
 
-Advanced console application demonstrating solid OOP principles and DSA implementation with role-based access control.
+A role-based console application showcasing OOP, DSA, and access control best practices.
 
 - Multi-role authentication (Student, Teacher, HOD)
 - Grade management & analytics
@@ -66,10 +74,18 @@ Advanced console application demonstrating solid OOP principles and DSA implemen
 ## 🎯 Leadership & Experience
 
 Proven track record of **leading academic project teams** with expertise in:
+
 - Task distribution & resource allocation
 - Coordinating cross-functional teams
 - Ensuring timely project delivery
 - Mentoring team members
+
+---
+
+## 📚 Education
+
+**BS Computer Science (2023–2027)**
+Doctor AQ Khan Institute of Computer Science and Information Technology (KICSIT)
 
 ---
 
