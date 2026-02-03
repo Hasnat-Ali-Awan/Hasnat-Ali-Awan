@@ -14,13 +14,20 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" alt="cyber animation" />
-
 ## 👋 About Me
 
-I'm **Hasnat Ali Awan**, a **Computer Science student** at Doctor AQ Khan Institute of Computer Science and Information Technology (KICSIT), driven by a passion for **cybersecurity** and secure software development. I'm currently pursuing my BS in Computer Science (2023–2027), building skills in secure coding, system architecture, and mobile development.
+I'm a **Computer Science student** at Doctor AQ Khan Institute of Computer Science and Information Technology (KICSIT), focused on **cybersecurity**, secure software design, and mobile development. I'm currently pursuing my BS in Computer Science (2023–2027) and sharpening my skills in secure coding, system architecture, and building real-world applications.
 
 **Mission:** Become a cybersecurity professional who delivers **secure, scalable, and user-friendly solutions** that protect people and systems.
+
+---
+
+## 🔎 What I'm Focusing On
+
+- Strengthening **secure coding** practices and defensive programming
+- Building **mobile apps** with clean architecture and intuitive UX
+- Deepening knowledge in **DSA** and software engineering fundamentals
+- Exploring **threat modeling** and security-first system design
 
 ---
 
@@ -92,7 +99,7 @@ Proven track record of **leading academic project teams** with expertise in:
 
 ## 📚 Education
 
-**BS Computer Science (2023–2027)**  
+**BS Computer Science (2023–2027)**
 Doctor AQ Khan Institute of Computer Science and Information Technology (KICSIT)
 
 ---
