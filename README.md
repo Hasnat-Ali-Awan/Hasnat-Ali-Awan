@@ -13,7 +13,7 @@
     <td align="center">
       <a href="mailto:hasnataliawan088@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="38"/>
-        <br/><sub><b>hasnataliawan088@gmail.com</b></sub>
+        
       </a>
     </td>
     <td align="center">
