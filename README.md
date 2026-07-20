@@ -1,324 +1,220 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a3d62,55:1a6b8a,100:25d366&height=240&section=header&text=Hasnat%20Ali%20Awan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=58&descColor=a8dadc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d1b0d,50:0f2417,75:143d1f,100:00ff41&height=250&section=header&text=HASNAT%20ALI%20AWAN&fontSize=48&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Cybersecurity&descSize=15&descAlignY=55&descColor=39ff14&fontFamily=monospace" />
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=780&lines=AI+%2F+ML+%7C+MERN+Stack+%7C+Cybersecurity;Final-Year+CS+%40+KICSIT+%2F+IST+Kahuta;MERN+Stack+Intern+%40+Rockville+Technologies;sudo+access+--grant+opportunities)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=25D366&center=true&vCenter=true&width=720&lines=Building+Secure+%26+Intelligent+Systems;AI+%2F+ML+%7C+MERN+Stack+%7C+Cybersecurity;Final-Year+CS+%40+KICSIT+%2F+IST+Kahuta;MERN+Stack+Intern+%40+Rockville+Technologies)](https://git.io/typing-svg)
+[![Gmail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:hasnataliawan088@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/Hasnat-Ali-Awan)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=39FF14)](https://wa.me/923171542350)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Hasnat-Ali-Awan)
 
-<br/>
-
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnataliawan088@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hasnat-Ali-Awan)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923171542350)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasnat-Ali-Awan)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Hasnat-Ali-Awan&label=Profile+Views&color=25d366&style=flat-square)&nbsp;&nbsp;
-![GitHub Followers](https://img.shields.io/github/followers/Hasnat-Ali-Awan?label=Followers&color=0a66c2&style=flat-square&logo=github)&nbsp;&nbsp;
-![GitHub Stars](https://img.shields.io/github/stars/Hasnat-Ali-Awan?label=Total+Stars&color=f7df1e&style=flat-square&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Hasnat-Ali-Awan&label=PROFILE+VIEWS&color=39ff14&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/Hasnat-Ali-Awan?label=FOLLOWERS&color=00ff41&style=for-the-badge&logo=github&labelColor=000000)
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-> *AI Engineer in the making • Full Stack Developer • Cybersecurity Enthusiast*
-
-- 🔭 **Current Role:** MERN Stack Developer Intern @ Rockville Technologies, Islamabad
-- 🎓 **Education:** BS Computer Science (2023–2027) — KICSIT, IST Kahuta Campus
-- 📍 **Location:** Islamabad, Pakistan
-- 🤖 **Interests:** AI/ML, Biometric Security, NLP, Explainable AI (SHAP)
-- 🛡️ **Learning:** Penetration Testing, CTF Challenges, Blue Team Operations, Network Security
-- 🧪 **Research:** AI-driven threat detection, ML for intrusion detection systems
-- ⚡ **Fun Fact:** I train ML models to catch fraudsters — and then try to outsmart them myself
-
----
-
-## 🎯 Currently Working On
-
-- **FraudLens BioSecure** — Hybrid AI + Biometric credit card fraud detection system (Final Year Project)
-- **MERN Stack** — Building production-grade REST APIs and full-stack features at Rockville Technologies
-- **Penetration Testing** — Learning offensive security fundamentals with Kali Linux
-- **Machine Learning** — Deepening XGBoost, SHAP explainability, and NLP techniques
-- **Full Stack Applications** — Shipping end-to-end apps with React, FastAPI, and Docker
-
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>Languages</b></summary>
 <br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+## `Profile`
 
-</details>
+```yaml
+role:       AI Engineer (in progress) / Full-Stack Developer / Cybersecurity
+company:    MERN Stack Intern @ Rockville Technologies
+education:  BS Computer Science, 2023–2027 — KICSIT / IST Kahuta
+location:   Islamabad, Pakistan
+focus:      AI/ML · Biometric Security · NLP · Explainable AI (SHAP)
+learning:   Penetration Testing · CTF · Blue Team · Network Security
+```
 
-<details open>
-<summary><b>Frontend</b></summary>
 <br>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=.net&logoColor=white)
+## `Tech Stack`
 
-</details>
+**Languages**
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=39FF14)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=39FF14)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=39FF14)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=39FF14)
 
-<details open>
-<summary><b>Backend</b></summary>
+**Frontend**
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=39FF14)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=39FF14)
+![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=39FF14)
+![WinForms](https://img.shields.io/badge/WinForms-000000?style=for-the-badge&logo=.net&logoColor=39FF14)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=39FF14)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=39FF14)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14)
+
+**Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=39FF14)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=39FF14)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=39FF14)
+
+**AI / ML**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=39FF14)
+![XGBoost](https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logoColor=39FF14)
+![SHAP](https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logoColor=39FF14)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=39FF14)
+![NLP](https://img.shields.io/badge/NLP-000000?style=for-the-badge&logoColor=39FF14)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=39FF14)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logoColor=39FF14)
+
+**Security**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=39FF14)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=39FF14)
+![Scapy](https://img.shields.io/badge/Scapy-000000?style=for-the-badge&logoColor=39FF14)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=39FF14)
+![NIDS](https://img.shields.io/badge/NIDS-000000?style=for-the-badge&logoColor=39FF14)
+
+**DevOps**
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)
+
+**Tools**
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=39FF14)
+![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=39FF14)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual-studio&logoColor=39FF14)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=39FF14)
+
 <br>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+## `Projects`
 
-</details>
+<table>
+<tr>
+<td width="50%">
 
-<details open>
-<summary><b>Databases</b></summary>
-<br>
+**🔐 FraudLens BioSecure**
+`XGBoost` `SHAP` `FastAPI` `React`
+`🟢 in-progress` · [repo](https://github.com/Hasnat-Ali-Awan)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+</td>
+<td width="50%">
 
-</details>
+**🛡️ NIDS-ML**
+`Scikit-learn` `XGBoost` `Scapy`
+`🟢 in-progress` · [repo](https://github.com/Hasnat-Ali-Awan)
 
-<details open>
-<summary><b>AI / Machine Learning</b></summary>
-<br>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-Explainability-blueviolet?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-black?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-Text_ML-4B8BBE?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand_Tracking-FF6F00?style=flat-square)
+**🎣 Phishing URL & Email Detector**
+`NLP` `Scikit-learn` `FastAPI`
+`🟢 in-progress` · [repo](https://github.com/Hasnat-Ali-Awan)
 
-</details>
+</td>
+<td width="50%">
 
-<details open>
-<summary><b>Cybersecurity</b></summary>
-<br>
+**👋 Gesture-Controlled Spotify Player**
+`React` `OpenCV` `MediaPipe` `Docker`
+`✅ completed` · [repo](https://github.com/Hasnat-Ali-Awan)
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Scapy](https://img.shields.io/badge/Scapy-Packet_Crafting-00897B?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-Network_Scan-21564B?style=flat-square)
-![NIDS](https://img.shields.io/badge/Intrusion_Detection-ML_Based-red?style=flat-square)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-</details>
+**🎮 Clashive: Elite Protocol**
+`Java` `Android` `Firebase` `MVVM`
+`✅ completed` · [repo](https://github.com/Hasnat-Ali-Awan)
 
-<details open>
-<summary><b>Cloud & DevOps</b></summary>
-<br>
+</td>
+<td width="50%">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+**🤖 Offline Fitness AI**
+`Python` `Ollama` `Streamlit` `Llama 3.2`
+`✅ completed` · [repo](https://github.com/Hasnat-Ali-Awan)
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<details open>
-<summary><b>Tools</b></summary>
-<br>
+**🏥 Clinic Management System**
+`C#` `MySQL` `WinForms`
+`✅ completed` · [repo](https://github.com/Hasnat-Ali-Awan)
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</td>
+<td width="50%">
 
-</details>
-
----
-
-## 🚀 Featured Projects
-
-### ⭐ FraudLens BioSecure — AI Fraud Detection & Biometric Security
-
-> *Hybrid AI + Biometric credit card fraud detection system — Final Year Project*
-
-`XGBoost` `SHAP` `FastAPI` `React` `Biometrics` `Python`
-
-**Status:** 🟢 In Progress
-
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasnat-Ali-Awan)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Coming_Soon-1a6b8a?style=for-the-badge)](#)
-
----
-
-### 🛡️ NIDS-ML — Network Intrusion Detection System
-
-> *ML-based IDS trained on NSL-KDD for real-time attack classification*
-
-`Scikit-learn` `XGBoost` `Scapy` `SHAP` `Python`
-
-**Status:** 🟢 In Progress
-
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasnat-Ali-Awan)
-
----
-
-### 🎣 Phishing URL & Email Detector
-
-> *NLP + URL feature engineering for phishing detection with risk scoring*
-
-`NLP` `Scikit-learn` `FastAPI` `Python`
-
-**Status:** 🟢 In Progress
-
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasnat-Ali-Awan)
-
----
-
-### 👋 Gesture-Controlled Spotify Player
-
-> *Touchless Spotify control via real-time hand gesture recognition*
-
-`React` `FastAPI` `OpenCV` `MediaPipe` `WebSockets` `Docker`
-
-**Status:** 🟡 Completed
-
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasnat-Ali-Awan)
-
----
-
-### 🎮 Clashive: Elite Protocol
-
-> *AI-powered esports tournament app for PUBG Mobile with real-time leaderboards*
-
-`Java` `Android` `Firebase` `MVVM` `OkHttp3`
-
-**Status:** 🟡 Completed
-
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasnat-Ali-Awan)
-
----
-
-### 🤖 Offline Fitness AI
-
-> *Fully offline AI fitness app using local LLMs for personalized plans*
-
-`Python` `Ollama` `Streamlit` `SQLite` `Llama 3.2`
-
-**Status:** 🟡 Completed
-
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasnat-Ali-Awan)
-
----
-
-### 🏥 Clinic Management System
-
-> *Healthcare management app with CRUD for patients, doctors, and appointments*
-
-`C#` `MySQL` `Windows Forms`
-
-**Status:** 🟡 Completed
-
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasnat-Ali-Awan)
-
----
-
-### 📚 Student Grading System
-
-> *Role-based console app with multi-role auth and efficient data structures*
-
+**📚 Student Grading System**
 `C++` `OOP` `DSA`
+`✅ completed` · [repo](https://github.com/Hasnat-Ali-Awan)
 
-**Status:** 🟡 Completed
+</td>
+</tr>
+</table>
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasnat-Ali-Awan)
+<br>
 
----
-
-## 📊 GitHub Analytics
+## `GitHub Stats`
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hasnat-Ali-Awan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=25d366&icon_color=25d366&text_color=a8dadc"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnat-Ali-Awan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=25d366&text_color=a8dadc"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Hasnat-Ali-Awan&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=39ff14&icon_color=39ff14&text_color=00ff41&border_color=39ff14"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnat-Ali-Awan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=39ff14&text_color=00ff41&border_color=39ff14"/>
 
-<br/><br/>
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hasnat-Ali-Awan&theme=dark&hide_border=true&background=000000&stroke=39ff14&ring=39ff14&fire=00ff41&currStreakLabel=39ff14&sideLabels=39ff14&dates=39ff14)](https://github.com/Hasnat-Ali-Awan)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hasnat-Ali-Awan&theme=tokyonight&hide_border=true&background=0d1117&stroke=25d366&ring=25d366&fire=ff6b6b&currStreakLabel=a8dadc)](https://github.com/Hasnat-Ali-Awan)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hasnat-Ali-Awan&theme=react-dark&hide_border=true&bg_color=000000&color=39ff14&line=39ff14&point=00ff41)](https://github.com/Hasnat-Ali-Awan)
 
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hasnat-Ali-Awan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a8dadc&line=25d366&point=25d366)](https://github.com/Hasnat-Ali-Awan)
-
-<br/>
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Hasnat-Ali-Awan&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8)](https://github.com/Hasnat-Ali-Awan)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Hasnat-Ali-Awan&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8)](https://github.com/Hasnat-Ali-Awan)
 
 </div>
 
----
+<br>
 
-## 📈 Learning Journey
+## `Skills Progress`
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/AI-🟢_Learning-blueviolet?style=for-the-badge)
-![ML](https://img.shields.io/badge/ML-🟢_Learning-FF6600?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-🟢_Learning-red?style=for-the-badge)
-![Pen_Testing](https://img.shields.io/badge/Penetration_Testing-🟡_Beginner-557C94?style=for-the-badge)
-![CTF](https://img.shields.io/badge/CTF-🟡_Beginner-FFD700?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Learning-000000?style=for-the-badge&logoColor=39FF14)
+![ML](https://img.shields.io/badge/ML-Learning-000000?style=for-the-badge&logoColor=39FF14)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-000000?style=for-the-badge&logoColor=39FF14)
+![Pen Testing](https://img.shields.io/badge/Pen_Testing-Beginner-000000?style=for-the-badge&logoColor=39FF14)
+![CTF](https://img.shields.io/badge/CTF-Beginner-000000?style=for-the-badge&logoColor=39FF14)
 
-<br/>
-
-![React](https://img.shields.io/badge/React-🟢_Active-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MERN](https://img.shields.io/badge/MERN_Stack-🟢_Active-47A248?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-🟢_Active-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-🟢_Active-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![System_Design](https://img.shields.io/badge/System_Design-🟡_Learning-1a6b8a?style=for-the-badge)
+![React](https://img.shields.io/badge/React-Active-000000?style=for-the-badge&logo=react&logoColor=39FF14)
+![MERN](https://img.shields.io/badge/MERN-Active-000000?style=for-the-badge&logoColor=39FF14)
+![Docker](https://img.shields.io/badge/Docker-Active-000000?style=for-the-badge&logo=docker&logoColor=39FF14)
+![FastAPI](https://img.shields.io/badge/FastAPI-Active-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14)
+![System Design](https://img.shields.io/badge/System_Design-Learning-000000?style=for-the-badge&logoColor=39FF14)
 
 </div>
 
----
+<br>
 
-## 🏆 Achievements
+## `Changelog`
 
-- 🏢 **Internship** — MERN Stack Developer Intern @ Rockville Technologies
-- 🚀 **Projects** — 8+ completed projects across AI, Security, Web, and Mobile
-- 🎓 **Research** — AI-driven fraud detection & ML-based intrusion detection systems
-- 🌱 **Open Source** — Actively building and sharing security + AI tools on GitHub
-- 📜 **Certifications** — *Coming soon*
-- 🏅 **Hackathons** — *Coming soon*
-
----
-
-## 💬 Quote
-
-> *"Secure systems. Intelligent solutions. Continuous learning."*
+```diff
++ Internship        MERN Stack Developer @ Rockville Technologies
++ Projects          8+ shipped — AI, Security, Web, Mobile
++ Research          Fraud detection & ML-based intrusion detection
++ Open Source       Security + AI tools on GitHub
+! Certifications    pending
+! Hackathons        pending
+```
 
 ---
 
 <div align="center">
 
-### 💼 Open to Internships & Collaborations
+### `Status: open-to-internships`
 
-*Building at the intersection of AI, Security, and Full-Stack Engineering*
+[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:hasnataliawan088@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/Hasnat-Ali-Awan)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=39FF14)](https://wa.me/923171542350)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Hasnat-Ali-Awan)
 
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnataliawan088@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hasnat-Ali-Awan)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923171542350)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasnat-Ali-Awan)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:25d366,50:1a6b8a,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:143d1f,100:000000&height=120&section=footer" />
 
 </div>
