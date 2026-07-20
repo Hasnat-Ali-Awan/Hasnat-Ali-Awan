@@ -8,11 +8,40 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/-hasnataliawan088%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasnataliawan088@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Hasnat--Ali--Awan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hasnat-Ali-Awan)
-[![GitHub](https://img.shields.io/badge/-Hasnat--Ali--Awan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasnat-Ali-Awan)
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:hasnataliawan088@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="38"/>
+        <br/><sub><b>hasnataliawan088@gmail.com</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/Hasnat-Ali-Awan">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="38"/>
+        <br/><sub><b>Hasnat Ali Awan</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/923171542350">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" height="38"/>
+        <br/><sub><b>+92 317 1542350</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Hasnat-Ali-Awan">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="38"/>
+        <br/><sub><b>Hasnat-Ali-Awan</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-![visitors](https://komarev.com/ghpvc/?username=Hasnat-Ali-Awan&label=Profile+Views&color=0a3d62&style=flat-square)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hasnat-Ali-Awan&label=👁%20Profile+Views&color=25d366&style=flat-square)&nbsp;&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Hasnat-Ali-Awan?label=Followers&style=flat-square&color=0a66c2&logo=github)&nbsp;&nbsp;
+![GitHub stars](https://img.shields.io/github/stars/Hasnat-Ali-Awan?label=Stars&style=flat-square&color=f7df1e&logo=github)
 
 </div>
 
