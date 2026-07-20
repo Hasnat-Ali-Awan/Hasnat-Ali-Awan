@@ -13,31 +13,31 @@
     <td align="center">
       <a href="mailto:hasnataliawan088@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="38"/>
-        
+        <br/>
       </a>
     </td>
     <td align="center">
       <a href="https://linkedin.com/in/Hasnat-Ali-Awan">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="38"/>
-        <br/><sub><b>Hasnat Ali Awan</b></sub>
+        <br/>
       </a>
     </td>
     <td align="center">
       <a href="https://wa.me/923171542350">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" height="38"/>
-        <br/><sub><b>+92 317 1542350</b></sub>
+        <br/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Hasnat-Ali-Awan">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="38"/>
-        <br/><sub><b>Hasnat-Ali-Awan</b></sub>
+        <br/>
       </a>
     </td>
   </tr>
 </table>
 
-<br/>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hasnat-Ali-Awan&label=👁%20Profile+Views&color=25d366&style=flat-square)&nbsp;&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/Hasnat-Ali-Awan?label=Followers&style=flat-square&color=0a66c2&logo=github)&nbsp;&nbsp;
