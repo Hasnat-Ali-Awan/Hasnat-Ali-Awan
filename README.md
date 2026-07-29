@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Hasnat%20Ali%20Awan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20in%20the%20Making%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Security%20Enthusiast&descSize=16&descAlignY=58&descColor=cbd5e1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Hasnat%20Ali%20Awan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20%C2%B7%20Full-Stack%20Development%20%C2%B7%20Cybersecurity&descSize=17&descAlignY=58&descColor=cbd5e1" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+ML+systems+that+explain+themselves;MERN+Stack+Intern+%40+Rockville+Technologies;Final-Year+CS+Student+%40+KICSIT+%2F+IST+Kahuta;Open+to+internships+and+collaboration)](https://git.io/typing-svg)
 
@@ -11,96 +11,130 @@
 
 <img src="https://komarev.com/ghpvc/?username=Hasnat-Ali-Awan&label=Profile+Views&color=2563eb&style=flat-square" />
 
+<br><br>
+
+**Quick Navigation**
+
+[👋 About](#-about-me) · [🚀 Projects](#-featured-projects) · [🧰 Tech Stack](#-tech-stack) · [📊 Stats](#-github-stats) · [🎓 Experience](#-education--experience) · [📫 Contact](#-lets-connect)
+
 </div>
+
+---
 
 ## 👋 About Me
 
-I'm a final-year Computer Science student at **KICSIT / IST Kahuta** (Class of 2027) and a **MERN Stack Intern at Rockville Technologies**, based in Islamabad, Pakistan. I like building things end to end — from training and explaining ML models to shipping the web apps that put them in front of people.
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding illustration" />
 
-- 🔭 Currently building **[NIDS-ML](https://github.com/Hasnat-Ali-Awan/NIDS-ML)** — an ML-powered network intrusion detection system with SHAP explainability and a SOC-style dashboard
+I'm a final-year Computer Science student at **KICSIT / IST Kahuta** (Class of 2027) and a **MERN Stack Intern at Rockville Technologies**, based in Islamabad, Pakistan.
+
+I like building things end to end — from training and explaining ML models to shipping the web apps that put them in front of people.
+
+- 🔭 Currently building **[NIDS-ML](https://github.com/Hasnat-Ali-Awan/NIDS-ML)** — an ML-powered intrusion detection system with SHAP explainability
 - 🌱 Deepening my skills in **machine learning, explainable AI, and network security**
 - 💼 Working with **React, NestJS, Node.js, and MongoDB** in production-style projects
 - 🛡️ Exploring **penetration testing, packet analysis, and blue-team fundamentals**
-- 📫 Reach me at **hasnataliawan088@gmail.com** — open to internships and collaboration
+- 📫 Reach me at **hasnataliawan088@gmail.com**
+
+<br clear="right"/>
+
+---
 
 ## 🚀 Featured Projects
 
+> 💡 Click any card to open the repository.
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🛡️ [NIDS-ML](https://github.com/Hasnat-Ali-Awan/NIDS-ML)
+<a href="https://github.com/Hasnat-Ali-Awan/NIDS-ML">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hasnat-Ali-Awan&repo=NIDS-ML&theme=tokyonight&hide_border=true" />
+</a>
 
-Machine-learning **Network Intrusion Detection System** trained on NSL-KDD, with live/replay packet analysis, SHAP explainability, and a SOC-style analyst dashboard.
+🛡️ **ML Network Intrusion Detection System** — trained on NSL-KDD with live/replay packet analysis, SHAP explainability, and a SOC-style analyst dashboard.
 
 `Python` `XGBoost` `SHAP` `FastAPI` `Scapy`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🍔 [BiteRush](https://github.com/Hasnat-Ali-Awan/BiteRush)
+<a href="https://github.com/Hasnat-Ali-Awan/BiteRush">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hasnat-Ali-Awan&repo=BiteRush&theme=tokyonight&hide_border=true" />
+</a>
 
-Smart **restaurant management and online food ordering platform** for the Pakistani market — customer UI, modular backend, Swagger API docs, and Docker Compose deployment.
+🍔 **Restaurant Management & Food Ordering Platform** — Foodpanda-style app for the Pakistani market with Swagger API docs and Docker deployment.
 
 `React` `Vite` `MUI` `NestJS` `MongoDB` `Docker`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 📘 [Smart Study AI](https://github.com/Hasnat-Ali-Awan/smart_study_ai)
+<a href="https://github.com/Hasnat-Ali-Awan/smart_study_ai">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hasnat-Ali-Awan&repo=smart_study_ai&theme=tokyonight&hide_border=true" />
+</a>
 
-Fully **offline study assistant** — upload PDF, TXT, or DOCX documents and chat with them using local AI. No internet, no API keys, complete privacy.
+📘 **Smart Study AI** — fully offline study assistant. Upload PDF/TXT/DOCX documents and chat with them using local AI. No internet, no API keys.
 
 `Python` `Ollama` `Streamlit` `SQLite`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 💪 [Offline Fitness AI](https://github.com/Hasnat-Ali-Awan/offline_fitness_ai)
+<a href="https://github.com/Hasnat-Ali-Awan/offline_fitness_ai">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hasnat-Ali-Awan&repo=offline_fitness_ai&theme=tokyonight&hide_border=true" />
+</a>
 
-Personalized **workout and diet plan generator** powered by a local Llama 3.2 model, with plan history, search, and export to text/JSON/CSV.
+💪 **Offline Fitness AI** — personalized workout & diet plan generator powered by a local Llama 3.2 model, with history, search, and export options.
 
 `Python` `Ollama` `Llama 3.2` `Streamlit` `SQLite`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🏥 [Bovidae Hospital](https://github.com/Hasnat-Ali-Awan/BovidaeHospital)
+<a href="https://github.com/Hasnat-Ali-Awan/BovidaeHospital">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hasnat-Ali-Awan&repo=BovidaeHospital&theme=tokyonight&hide_border=true" />
+</a>
 
-Desktop **hospital management system** covering patients, appointments, and records, built with object-oriented design.
+🏥 **Bovidae Hospital** — desktop hospital management system covering patients, appointments, and records with object-oriented design.
 
 `C#` `WinForms` `MySQL`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🏦 [Banking Management System](https://github.com/Hasnat-Ali-Awan/Banking_management_System)
+<a href="https://github.com/Hasnat-Ali-Awan/Banking_management_System">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hasnat-Ali-Awan&repo=Banking_management_System&theme=tokyonight&hide_border=true" />
+</a>
 
-**Banking management system** implementing core OOP concepts — accounts, transactions, and customer management on a WinForms desktop UI.
+🏦 **Banking Management System** — accounts, transactions, and customer management on a WinForms desktop UI, built around core OOP concepts.
 
 `C#` `WinForms` `OOP`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 📚 [Student Grading System](https://github.com/Hasnat-Ali-Awan/student-grading-system)
+<a href="https://github.com/Hasnat-Ali-Awan/student-grading-system">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hasnat-Ali-Awan&repo=student-grading-system&theme=tokyonight&hide_border=true" />
+</a>
 
-**Student grading system** built in C++ applying data structures such as stacks, binary trees, and queues alongside OOP design.
+📚 **Student Grading System** — C++ project applying stacks, binary trees, and queues alongside OOP design.
 
 `C++` `OOP` `DSA`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-### 🌦️ [Weather App](https://github.com/Hasnat-Ali-Awan/WeatherApp)
+<a href="https://github.com/Hasnat-Ali-Awan/WeatherApp">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Hasnat-Ali-Awan&repo=WeatherApp&theme=tokyonight&hide_border=true" />
+</a>
 
-**Weather application** built with React — fetches and displays live weather data with a clean, responsive interface.
+🌦️ **Weather App** — React application that fetches and displays live weather data with a clean, responsive interface.
 
 `React` `JavaScript` `CSS` `REST API`
 
@@ -109,7 +143,7 @@ Desktop **hospital management system** covering patients, appointments, and reco
 </table>
 
 <details>
-<summary><b>📂 More projects & learning work</b></summary>
+<summary><b>📂 More projects & learning work — click to expand</b></summary>
 <br>
 
 | Project | Description | Stack |
@@ -124,67 +158,61 @@ Desktop **hospital management system** covering patients, appointments, and reco
 
 </details>
 
-## 🛠️ Tech Stack
+---
 
-**Languages**
+## 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
 
-**Frontend & Mobile**
+**Languages & Frameworks**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs,java,react,vite,materialui,nodejs,nestjs,express,fastapi&perline=13" />
 
-**Backend & Databases**
+**Databases, AI/ML & Tools**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,sklearn,opencv,docker,git,github,postman,kali,linux,androidstudio&perline=13" />
 
-**AI / ML**
+</div>
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB4C2C?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP_Explainability-7C3AED?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<details>
+<summary><b>🔎 Full stack details — click to expand</b></summary>
+<br>
 
-**Security & DevOps**
+| Area | Technologies |
+|------|--------------|
+| **Languages** | Python, JavaScript, TypeScript, C++, C#, Java |
+| **Frontend & Mobile** | React, Vite, Material UI, Streamlit, Android (Java) |
+| **Backend** | Node.js, NestJS, Express, FastAPI |
+| **Databases** | MongoDB, MySQL, SQLite, Firebase |
+| **AI / ML** | Scikit-learn, XGBoost, SHAP, Ollama (local LLMs), OpenCV, Pandas |
+| **Security** | Kali Linux, Wireshark, Nmap, Scapy, packet analysis |
+| **DevOps & Tools** | Docker, Git, GitHub Actions, Postman, VS Code |
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge)
-![Scapy](https://img.shields.io/badge/Scapy-2C2D72?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</details>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hasnat-Ali-Awan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnat-Ali-Awan&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hasnat-Ali-Awan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hasnat-Ali-Awan&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasnat-Ali-Awan&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Hasnat-Ali-Awan&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasnat-Ali-Awan&theme=tokyo-night&hide_border=true" />
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hasnat-Ali-Awan/Hasnat-Ali-Awan/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Hasnat-Ali-Awan/Hasnat-Ali-Awan/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
+
+---
 
 ## 🎓 Education & Experience
 
@@ -198,13 +226,16 @@ Desktop **hospital management system** covering patients, appointments, and reco
 
 <div align="center">
 
-### 💬 Let's Connect
+## 📫 Let's Connect
 
 Open to **internships**, **collaboration on AI/ML and security projects**, and **freelance web work**.
 
 <a href="mailto:hasnataliawan088@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/Hasnat-Ali-Awan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://wa.me/923171542350"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://github.com/Hasnat-Ali-Awan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=110&section=footer" />
 
